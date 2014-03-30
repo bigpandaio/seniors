@@ -1,7 +1,7 @@
 {
   "name": "seniors",
   "version": "0.9.1",
-  "description": "Warns on outdated NPM dependencies",
+  "description": "Leverages 'npm outdated' to notify on out-of-date dependencies",
   "main": "index.js",
   "repository": {
     "type": "git",
