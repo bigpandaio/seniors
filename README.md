@@ -1,4 +1,4 @@
-npm-outdated
-============
+Seniors
+=======
 
-Warns on outdated dependencies
+Leverages 'npm outdated' to notify on out-of-date dependencies
