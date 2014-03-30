@@ -11,4 +11,4 @@ Leverages 'npm outdated' to notify on out-of-date dependencies
 
 Add the following line at the entry point of your application:
 
-`require(seniors)`
+`require('seniors')`
