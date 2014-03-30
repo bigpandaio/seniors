@@ -1,0 +1,20 @@
+{
+  "name": "seniors",
+  "version": "0.9.0",
+  "description": "Warns on outdated NPM dependencies",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bigpandaio/seniors.git"
+  },
+  "keywords": [
+    "npm",
+    "outdated"
+  ],
+  "author": "Shahar Kedar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bigpandaio/seniors/issues"
+  },
+  "homepage": "https://github.com/bigpandaio/seniors"
+}
